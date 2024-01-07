@@ -1130,3 +1130,39 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 
 [2024.01.07-13.56.00:632][  1]Running Python start-up script 'D:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.029509 secs
 [2024.01.07-13.56.00:665][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.07-13.57.36:221][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.57.53:790][785]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 files with total size 0 MiB and 4 empty folders. Scanned 387 files in 712 folders with total size 3 MiB.
+[2024.01.07-13.59.38:779][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.38:972][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.40:233][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.40:344][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.42:082][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.42:130][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.42:156][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.45:688][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.46:908][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: ================================================
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: RAM used: 19.62 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 0.97 s
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.02
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Shader code size: average 31.922 KiB, min 31.922 KiB, max 31.922 KiB
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.02 s
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Total thread time: 0.125 s
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Total thread preprocess time: 0.019 s
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Percentage time preprocessing: 15.32%
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Effective parallelization: 0.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.01.07-13.59.47:987][908]LogShaderCompilers: Display: ================================================
+[2024.01.07-14.06.22:292][363]Cmd: SELECT NONE
