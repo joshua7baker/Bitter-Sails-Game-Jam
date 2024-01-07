@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/ReflectiveObject.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FX/S7X9QXJT7ED3KOOKNG5VOE.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/ReflectableObject.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/ReflectableComponent.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/BP_ReflectableObject.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/AC_ReflectableComponent.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VC/MSYN11BDXZDTA7M5KBKWOI.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FY/3F7Y0DPQKKOFCHZJQP5K27.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/12/T491DWJKGP5N4OHEVAHW7S.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JV/QUEQ3RWSHNR9GY4OPV0WB0.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XQ/SVTPNC6KY79B5DG2I71O1Q.uasset",
+				"D:/Dev/Templates/SDLProjects/Bitter-Sails-Game-Jam/LunarLabyrinth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UD/YCY0LMEHANUANN3TJ1T9TQ.uasset"
+			]
+		}
+	]
+}
